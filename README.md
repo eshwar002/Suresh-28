@@ -11,7 +11,7 @@
 </h1>
 
   <div id="badges">
-  <a href="www.linkedin.com/in/suresh-shyamala-37584b24a">
+  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
