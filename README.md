@@ -31,6 +31,9 @@
 <div>
   I have a passion in photography , checkout my photography website <a href="https://fhoto.000webhostapp.com/">here</a><br>
   <br>
+  I designed some of mobile app templates(ui/ux) , checkout my account <a href="https://www.figma.com/files/recent?fuid=919463640697266217">here</a><br>
+  <br>
+  <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
