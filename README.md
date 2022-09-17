@@ -29,10 +29,11 @@
 🔧 IDE : Android studio, git, vscode , Bracket ,jyupter.<br>
 ✨ Programming Languages: java,c,c++,full stack java developer[ git, jenkins, html and css, angular,  angular bootstrap, mongodb]<br>
 <div>
-  I have a passion in photography , checkout my photography website <a href="https://fhoto.000webhostapp.com/">here</a><br>
-  <br>
-  I designed some of mobile app templates(ui/ux) , checkout my account <a href="https://www.figma.com/files/recent?fuid=919463640697266217">here</a><br>
-  <br>
+Checkout my websites :<br>
+
+   Checkout my photography wepage <a href="https://fhoto.000webhostapp.com/">here</a><br>
+   Checkout my figma account <a href="https://www.figma.com/files/recent?fuid=919463640697266217">here</a><br>
+   Checkout my resume webpage <a href="https://stichomythic-stitch.000webhostapp.com/">here</a><br>
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -41,8 +42,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40"
+height="40"/>&nbsp;
+
 <img src="https://komarev.com/ghpvc/?username=Suresh-28&style=flat-square&color=blue" alt=""/>
 
 
