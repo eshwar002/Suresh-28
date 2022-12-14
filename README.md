@@ -36,6 +36,7 @@
 
 
    Checkout my figma account <a href="https://www.figma.com/files/recent?fuid=919463640697266217">here</a><br>
+   Checkout my website (resume) <a href="https://suresh-28.github.io/suresh.github.io/">here</a>
   
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
