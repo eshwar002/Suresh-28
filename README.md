@@ -23,16 +23,20 @@
  
 👨‍💻 My name is Suresh shyamala and I'm a graduate🎓 completed student with specialization in bachlor of computer application.<br>
  I'm from jangaon📍, Telangana, India.<br> 
-🌱 I am currently learning Full stack java developer.<br>
+🌱 I am currently learning New Technologies.<br>
 📫 Email: sureshshyamala95026@gmail.com<br>
 ⚡ Read more about my projects at Repositories. 💡<br>
 🔧 IDE : Android studio, git, vscode , Bracket ,jyupter.<br>
-✨ Programming Languages: java,c,c++,full stack java developement,JavaEE, Introduction to DevOps, Android Application Development. <br>
+✨ Programming Languages:<br>
+                           →java,c,c++,JavaEE,<br>
+                           → full stack java developement,<br>
+                           →  Introduction to DevOps,<br>
+                           → Android Application Development.<br>
 <div>
-Checkout my websites :<br>
+
 
    Checkout my figma account <a href="https://www.figma.com/files/recent?fuid=919463640697266217">here</a><br>
-   Checkout my resume webpage <a href="https://stichomythic-stitch.000webhostapp.com/">here</a><br>
+  
   <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
